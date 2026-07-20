@@ -23,7 +23,8 @@ A responsive restaurant/food ordering website with smooth scrolling, an interact
 
 ## Preview
 
-_(Add a screenshot or GIF of the site here)_
+<img width="400" height="183" alt="food" src="https://github.com/user-attachments/assets/05d45914-9fdd-4651-aba1-6103e949be5c" />
+
 
 ## What I Learned
 
